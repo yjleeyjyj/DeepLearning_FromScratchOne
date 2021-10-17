@@ -1,3 +1,7 @@
+#
+# numpy 사용 매뉴얼
+#
+
 # 1-5-1. 넘파이 가져오기
 import numpy as np
 
